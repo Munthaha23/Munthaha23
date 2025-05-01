@@ -15,7 +15,7 @@ Currently improving my skills in Python, SQL, Excel, Power BI, and Machine Learn
 - **Covid-19 Dashboard**: Data visualization using Power BI.
 
 ## 📫 How to reach me:
-- [LinkedIn](www.linkedin.com/in/munthaha-unnisa-02380b28b)
+- [LinkedIn](https://www.linkedin.com/in/munthaha-unnisa-02380b28b/)
 - [Email](munthahaunnisa86@gmail.com)
 
 ---
